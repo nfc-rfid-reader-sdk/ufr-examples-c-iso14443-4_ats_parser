@@ -1,0 +1,10 @@
+language.settings.xml
+*.o
+/win32_debug/
+/win64_debug/
+/win32_release/src/
+/win64_release/src/
+/linux32_debug/
+/linux64_debug/
+/linux32_release/src/
+/linux64_release/src/
